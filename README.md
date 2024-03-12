@@ -5,3 +5,5 @@
 :books: My primary passion is learning, evaluating, and applying new technologies
 
 :globe_with_meridians: For more info about me: [reysic.com](https://www.reysic.com/)
+
+![Metrics](/github-metrics.svg)

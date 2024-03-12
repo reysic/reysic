@@ -20,7 +20,7 @@ jobs:
 
           # Base plugin config
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/base/README.md
-          base: ""
+          base: header, activity, community, repositories, metadata
           
           # Introduction plugin config
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/introduction/README.md
